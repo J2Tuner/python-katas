@@ -1,2 +1,2 @@
-def abbreviate():
+def abbreviate(string):
     pass
